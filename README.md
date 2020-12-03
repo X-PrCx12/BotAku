@@ -17,5 +17,5 @@
 
 # INFO
 
-* [ `Whatsapp` ] https://wa.me/+6281260899819
-* [ `Instagram` ] https://instagram.com/ini.pfff
+* [ `Whatsapp` ] (https://wa.me/+6281260899819)
+* [ `Instagram` ] (https://instagram.com/ini.pfff)
