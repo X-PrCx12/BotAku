@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/X-PrCx12/BotAku/master/media/img/Kaguya.png" width="128" height="128"/>
+<img src="https://raw.githubusercontent.com/X-PrCx12/BotAku/master/media/img/Fanny.png" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="BotAku" src="https://img.shields.io/badge/BotAku-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
