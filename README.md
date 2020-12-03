@@ -14,3 +14,8 @@
 <a href="https://github.com/X-PrCx12/BotAku/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/X-PrCx12/BotAku?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="UNMAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
+
+# INFO
+
+* [ `Whatsapp` ] https://wa.me/+6281260899819
+* [ `Instagram` ] https://instagram.com/ini.pfff
