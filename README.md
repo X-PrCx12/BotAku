@@ -15,7 +15,8 @@
 <a href="#"><img title="UNMAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
-# INFO
+## INFO
 
-* [ `Whatsapp` ]   (https://wa.me/+6281260899819)
-* [ `Instagram` ]  (https://instagram.com/ini.pfff)
+* [`Instagram Admin`](https://instagram.com/ini.pfff)
+
+* [`WhatsApp Admin `](https://wa.me/+6281260899819)
