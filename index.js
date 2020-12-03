@@ -14,7 +14,7 @@ const info = require("./lib/info.js");
 //
 const BotName = 'PX BOT'; // Nama Bot Whatsapp
 const instagramlu = 'https://www.instagram.com/ini.pfff/'; // Nama Instagramlu cok
-const whatsapplu = '0895-2325-8649'; // Nomor whatsapplu cok
+const whatsapplu = '081260899819'; // Nomor whatsapplu cok
 const kapanbotaktif = 'Hanya Di Aktifkan'; // Kapan bot lu aktif
 const grupch1 = 'gaada'; // OFFICIAL GRUP LU 1
 const grupch2 = 'gaada'; // OFFICIAL GRUP LU 2
